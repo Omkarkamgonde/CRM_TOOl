@@ -60,7 +60,7 @@ This CRM system helps businesses manage their customer relationships by tracking
 
 - **Database Name**: newcrm
 - **Username**: root
-- **Password**: Deshmukhadcet@123
+- 
 
 ## Getting Started
 
